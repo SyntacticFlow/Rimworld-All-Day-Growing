@@ -17,11 +17,11 @@
     <DebugType>none</DebugType>
     <LangVersion>latest</LangVersion>
     <Optimize>true</Optimize>
-    <OutputPath>..\Assemblies\</OutputPath>
+    <OutputPath>..\1.6\Assemblies\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.5.4066" />
-    <PackageReference Include="Lib.Harmony" Version="2.3.3">
+    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.4516-beta" />
+    <PackageReference Include="Lib.Harmony" Version="2.3.6">
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
   </ItemGroup>
